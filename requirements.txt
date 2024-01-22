@@ -2,4 +2,3 @@ streamlit
 pandas
 numpy
 statsmodels
-sklearn == 1.4.0
